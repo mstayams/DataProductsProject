@@ -16,3 +16,9 @@ This project contains the following files
 5. server.R  - The Shiny Application Server code
 6. ui.R - The Shiny Application User Interface code	
 7. This README.md document
+
+The URLs 
+---------
+
+1. https://satyams.shinyapps.io/mtcars
+2. http://rpubs.com/satyams/156984
