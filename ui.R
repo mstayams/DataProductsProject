@@ -53,7 +53,7 @@ shinyUI(
       verbatimTextOutput("pred"),
       h5("------------------------------------------------------------------------------------"),
       h5("GitHub URL :  https://github.com/mstayams/DataProductsProject"),
-      h5("Rpubs URL :  http://rpubs.com/satyams/156984")
+      h5("Rpubs URL :  http://rpubs.com/satyams/158873")
     )
   )
 )
